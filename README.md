@@ -1,4 +1,4 @@
-![img](https://vc4a.com/alx/)
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
 
 # Zen (Python) 
 
